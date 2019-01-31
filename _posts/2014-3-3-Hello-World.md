@@ -14,3 +14,6 @@ I created this "playing board" using Adobe Photoshop. I used grids to make the s
 https://www.pinterest.com/pin/109493834668752478/?lp=true - https://www.diva-girl-parties-and-stuff.com/support-files/scrabbletiles.pdf
   
 After I was finished making the board and adding the tiles, I created the assets and uploaded them to the p5.js Web Editor. Then I placed each asset where it was supposed to fit on the canvas. Then I used a random function to make a different phrase appear everytime the composition is ran!
+
+Click this link to take a look!
+https://editor.p5js.org/slm03/sketches/yn_DMHu5n
