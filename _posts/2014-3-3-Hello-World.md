@@ -1,10 +1,18 @@
 ---
 layout: post
-title: You're up and running!
+title: ART210 - proj1 
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+For this project we were instructed to create a generative abstraction. We were to create a composition using assets we created, found, and coded. I decided to recreate a Scrabble playing board with tiles spelling out words and then creating short phrases. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+My idea came from wanting to use inspirational quotes that I personally enjoy, and I thought others would also enjoy them as well.
+The idea behind recreating a Scrabble board was to add a little bit of hapiness and fun to my overall composition. If someone sees a Scrabble board it may remoind them of memories they may have had playing the game. When I see it, it reminds me of a simpler time when I was young and used to play with my cousin, who was also my best friend. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+To begin, I decided to completely recreate a Scrabble board while using a photo of the board that I found at: https://codegolf.stackexchange.com/questions/92055/draw-an-empty-scrabble-board
+  https://i.stack.imgur.com/0kZO8.jpg
+  
+I created this "playing board" using Adobe Photoshop. I used grids to make the squares throughout the board, then added text, colors, shapes, etc. I also used Photoshop to create the words/phrases with the game tiles, found at:
+https://www.pinterest.com/pin/109493834668752478/?lp=true
+  https://www.diva-girl-parties-and-stuff.com/support-files/scrabbletiles.pdf
+  
+After I was finished making the board and adding the tiles, I created the assets and uploaded them to the p5.js Web Editor. Then I placed each asset where it was supposed to fit on the canvas. Then I used a random function to make a different phrase appear everytime the composition is ran!
