@@ -6,7 +6,7 @@ title: ART210 - proj1
 For this project we were instructed to create a generative abstraction. We were to create a composition using assets we created, found, and coded. I decided to recreate a Scrabble playing board with tiles spelling out words and then creating short phrases. 
 
 My idea came from wanting to use inspirational quotes that I personally enjoy, and I thought others would also enjoy them as well.
-The idea behind recreating a Scrabble board was to add a little bit of hapiness and fun to my overall composition. If someone sees a Scrabble board it may remoind them of memories they may have had playing the game. When I see it, it reminds me of a simpler time when I was young and used to play with my cousin, who was also my best friend. 
+The idea behind recreating a Scrabble board was to add a little bit of hapiness and fun to my overall composition. If someone sees a Scrabble board it may remind them of memories they may have had playing the game. When I see it, it reminds me of a simpler time when I was young and used to play with my cousin, who was also my best friend. 
 
 To begin, I decided to completely recreate a Scrabble board while using a photo of the board that I found at: https://codegolf.stackexchange.com/questions/92055/draw-an-empty-scrabble-board - https://i.stack.imgur.com/0kZO8.jpg
   
@@ -15,5 +15,5 @@ https://www.pinterest.com/pin/109493834668752478/?lp=true - https://www.diva-gir
   
 After I was finished making the board and adding the tiles, I created the assets and uploaded them to the p5.js Web Editor. Then I placed each asset where it was supposed to fit on the canvas. Then I used a random function to make a different phrase appear everytime the composition is ran!
 
-Click this link to take a look!
+Click on this link to take a look!
 https://editor.p5js.org/slm03/sketches/yn_DMHu5n
