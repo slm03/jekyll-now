@@ -1,0 +1,52 @@
+---
+layout: blog
+title: ART210 proj2 blog
+---
+
+For this project we were instructed to create 3 compositions transfiguring the body into geometrical shapes, or equivalently, a human sculpture. 
+
+When I was growing up, my brothers and I always played sports. Because my dad always played baseball, we theoretically followed his footsteps. 
+However, softball was the alternative for me considering I was a girl. Softball was never very popular when I was growing up, until I was about 
+10 years old. I played coed baseball with my brothers until then, and then began my softball journey. I played through middle school, high school, 
+even a few years in college. I found a huge love for this sport and I would've done anything to continue playing forever, as any athlete would.
+I did end up getting injured in college so I was forced to retire from playing. But no worries, I am fine and I made the best memories and
+formed friendships that will last forever!
+
+Jennie Finch is an American Olympian and an extremely incredible role model. She is the best softball pitcher that has ever been, and arumentably 
+the best in the sport all around. So, when I started this assignment I decided to use her in all-out mid-pitching motion to display the figure 
+of the human body. This image shows the complexity of the sport and hopefully teaches the ones who are ignorant of the sport, or think it is "easy."
+This sport is anything BUT easy and for anyone who disagrees I have video proof! 
+
+So, let's move on. To begin this project I found some images on google of Finch pitching. 
+
+background I used:
+<<https://www.google.com/search?q=jennie+finch+pitching&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjN9rDQpbzgAhVQXKwKHQSYD_cQ_AUIDygC&biw=748&bih=879&dpr=2#imgdii=eJu7i1AaeUPrSM:&imgrc=dGBrDmMvWSokaM:>>
+
+photo of Finch:
+<<https://www.google.com/search?q=jennie+finch+pitching&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjN9rDQpbzgAhVQXKwKHQSYD_cQ_AUIDygC&biw=748&bih=879&dpr=2#imgrc=dGBrDmMvWSokaM:>>
+
+I chose to use a different photo than what was shown in the first photo of the background I chose because I wanted a crisp, clear picture of her in full stride.
+Then I used Photoshop to clonestamp Finch out of the background photo and placed the other cut out of her on top of my new background image. 
+I generated image assets and then uploaded the assets onto the p5.js Web Editor. I placed them at the correct coordinates, and then began the first composition.
+In the Web Editor we used the "beginShape();" function to create geometrical shapes to form the figure of the body. 
+
+(Being that we play softball on a diamond, of course I decided to create her form with diamonds. (; ) 
+
+After hours of staring at coordinates and finding the right place for each diamond, the first composition was complete.
+
+Onto the second. 
+For the second composition we were to use bezier curves in or outside of the figure. I sketched out each pitching motion and then drew curves over them to
+each motion we go through as softball pitchers. This called for the "bezierVertex()" function, which saved my life compared to our other "bezier()" function, 
+where we are forced to find each coordinate manually and hard code them in. 
+
+For the third composition we were to use both straight lines and curves, but we were now allowed to use color. I combined the first and second compositions
+and added some fill and stroke to the diamonds to create a sort of abstract scuplture if you will. I had a lot of fun with this one!
+
+To incorporate the button to switch to a new composition I did exactly that. I created a button as well as a switch function that would move from one composition
+to the next and then reset to the default image, which was just the original image I uploaded.
+All in all I'm pleased with the way this turned out!
+
+Here is the link if you want to check it out!
+<<https://editor.p5js.org/slm03/sketches/TZXmFpt97>>
+
+
