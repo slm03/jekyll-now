@@ -39,6 +39,8 @@ For the second composition we were to use bezier curves in or outside of the fig
 each motion we go through as softball pitchers. This called for the "bezierVertex()" function, which saved my life compared to our other "bezier()" function, 
 where we are forced to find each coordinate manually and hard code them in. 
 
+avatar: 20190214_165643.jpg
+
 For the third composition we were to use both straight lines and curves, but we were now allowed to use color. I combined the first and second compositions
 and added some fill and stroke to the diamonds to create a sort of abstract scuplture if you will. I had a lot of fun with this one!
 
